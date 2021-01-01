@@ -7,14 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "sass ./sass/style.scss style.css --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tapas15/Mobile-Shopee-Website.git"
-  },
   "author": "Tapas",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Tapas15/Mobile-Shopee-Website/issues"
-  },
-  "homepage": "https://github.com/Tapas15/Mobile-Shopee-Website#readme"
+  "license": "ISC"
 }
